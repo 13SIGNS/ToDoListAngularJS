@@ -1,6 +1,13 @@
-# ToDoListAngularJS
-ToDo list portable app, uses AngularJS, BS, HTML, CSS and localStorage
+# ToDoListJQuery
+ToDo list portable app, uses jQuery, BS, HTML, CSS and localStorage
 
-INSTALLATION
+# DEMO
+
+[See demo](http://angularjstodolist.13signs.pl)
+
+# INSTALLATION
 
 To install just copy folder and open index.html in modern browser.
+
+# SCREENSHOTS
+![alt text](http://signs.civ.pl/demos/screenshots/todolistangularjs.png "AngularJS ToDoList")
