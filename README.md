@@ -3,7 +3,7 @@ ToDo list portable app, uses AngularJS, BS, HTML, CSS and localStorage
 
 # DEMO
 
-[See demo](http://angularjstodolist.13signs.pl)
+[See demo](http://todolistangularjs.13signs.pl)
 
 # INSTALLATION
 
