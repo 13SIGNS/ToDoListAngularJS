@@ -1,5 +1,5 @@
 # ToDoListAngularJS
-ToDo list portable app, uses AngularJS, BS, HTML, CSS and localStorage
+ToDo list very simple portable app, uses AngularJS, BS, HTML, CSS and localStorage
 
 # DEMO
 
